@@ -43,5 +43,6 @@ fun GitHubExample(modifier: Modifier = Modifier) {
             fontFamily = FontFamily.Monospace,
             fontWeight = FontWeight.W900,
             color = Color.DarkGray)
+        Text(text = "Updated Text")
     }
 }
