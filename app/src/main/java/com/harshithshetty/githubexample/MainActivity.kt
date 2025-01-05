@@ -38,7 +38,7 @@ fun GitHubExample(modifier: Modifier = Modifier) {
         horizontalArrangement = Arrangement.Center,
         verticalAlignment = Alignment.CenterVertically
     ){
-        Text(text = "Hello GitHub",
+        Text(text = "Hello GitHub 1",
             fontSize = 50.sp,
             fontFamily = FontFamily.Monospace,
             fontWeight = FontWeight.W900,
